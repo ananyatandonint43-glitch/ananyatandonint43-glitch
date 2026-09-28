@@ -112,12 +112,6 @@ I believe great technology is not just about writing code—it’s about designi
 
 ### “The future belongs to builders who learn fast and automate wisely.”
 
-## 🐧 The penguin has arrived!
-
-![Animated Penguin](https://lottie.host/663d6a1a-4524-40bf-8f2c-09c6b63f8ac5/NnpISgSo9r.gif)
-
-*An animated penguin, delivered properly this time.*
-
 </div>
 
 ---
