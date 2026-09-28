@@ -26,7 +26,7 @@ I'm a passionate developer and AI enthusiast focused on creating solutions that 
 
 ## 🚀 Philosophy
 
-I believe in writing clean, efficient code that doesn't just works—it scales. My approach combines:
+I believe in writing clean, efficient code that doesn't just works, it scales. My approach combines:
 - **Intelligent automation** to eliminate repetitive tasks
 - **Thoughtful architecture** for sustainable growth
 - **Continuous learning** to stay ahead of the curve
@@ -35,8 +35,8 @@ I believe in writing clean, efficient code that doesn't just works—it scales. 
 
 ## ⚡ Fun Facts
 
-- I automate things so efficiently, I sometimes have to fight the urge to optimize my morning coffee ☕
-- I believe every problem has an elegant solution—we just haven't found it yet
+- I automate things so efficiently, I sometimes have to fight the urge to optimize my morning tea☕
+- I believe every problem has an elegant solution, we just haven't found it yet
 - Open-source enthusiast and knowledge sharer
 
 ---
