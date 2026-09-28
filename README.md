@@ -1,44 +1,130 @@
 # 👋 Hey there! I'm Ananya Tandon
 
-**Building intelligent systems, automating the chaos.**
+<div align="center">
 
-I'm a passionate developer and AI enthusiast focused on creating solutions that simplify complexity and drive innovation through technology.
+```text
+╔═══════════════════════════════════════════════════════════════╗
+║     🚀 Building intelligent systems, automating the chaos. 🤖     ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+![Profile Banner](https://img.shields.io/badge/AI%20Engineer-%20Developer%20%7C%20Builder-blueviolet?style=for-the-badge)
+![Motto](https://img.shields.io/badge/Motto-Building%20intelligent%20systems%20%7C%20Automating%20the%20chaos-ff69b4?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Open%20to%20collaborate-brightgreen?style=for-the-badge)
+
+</div>
 
 ---
 
 ## 🎯 About Me
 
-- 🔭 **Currently Working On**: Building scalable systems and exploring AI/ML applications
-- 🌱 **Learning**: Advanced machine learning architectures, system design, and cloud technologies
-- 💡 **Interested In**: AI automation, intelligent systems, and solving real-world problems
-- 👯 **Open To**: Collaborations on innovative projects and open-source contributions
-- 💬 **Ask Me About**: Python, system design, automation, and emerging tech trends
+I’m a passionate developer and AI enthusiast who loves building systems that turn complexity into clarity. I enjoy creating intelligent, scalable solutions that solve real-world problems and make everyday work smoother.
+
+- 🔭 Currently exploring: AI systems, automation, and scalable product thinking
+- 🌱 Learning: Machine learning, architecture, cloud-native engineering, and data-driven decision making
+- 💡 Interested in: Intelligent automation, developer tools, and building impactful technology
+- 👯 Open to: Collaborations on meaningful and innovative tech projects
+- 💬 Ask me about: Python, AI workflows, automation, and modern software engineering
+
+---
+
+## 🧠 My Philosophy
+
+```python
+motto = "Building intelligent systems, automating the chaos."
+```
+
+I believe great technology is not just about writing code—it’s about designing systems that reduce friction, increase efficiency, and create long-term value.
+
+- ⚙️ Automate repetitive work intelligently
+- 🏗️ Design with scalability in mind
+- 🧪 Learn continuously and iterate quickly
+- 🚀 Build systems that make an impact
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**: Python, JavaScript, TypeScript, SQL  
-**Areas of Expertise**: Machine Learning, System Automation, Backend Development, Cloud Computing  
-**Tools & Platforms**: Git, Docker, AWS, CI/CD pipelines
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-AI%20%26%20Automation-8A2BE2?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
 
 ---
 
-## 🚀 Philosophy
+## 📈 GitHub Highlights
 
-I believe in writing clean, efficient code that doesn't just works, it scales. My approach combines:
-- **Intelligent automation** to eliminate repetitive tasks
-- **Thoughtful architecture** for sustainable growth
-- **Continuous learning** to stay ahead of the curve
+<div align="center">
+
+![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananyatandonint43-glitch&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ananyatandonint43-glitch&theme=radical)
+
+</div>
+
+---
+
+## 🚀 What I Enjoy
+
+```text
+┌──────────────────────────────────────┐
+│ • Building AI-powered workflows      │
+│ • Automating repetitive problems     │
+│ • Exploring modern software design   │
+│ • Creating elegant, practical tools  │
+└──────────────────────────────────────┘
+```
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ananyatandonint43-glitch)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
 
 ---
 
 ## ⚡ Fun Facts
 
-- I automate things so efficiently, I sometimes have to fight the urge to optimize my morning tea☕
-- I believe every problem has an elegant solution, we just haven't found it yet
-- Open-source enthusiast and knowledge sharer
+- I turn chaos into clean systems and workflows
+- I love solving problems with innovation, not just effort
+- Open-source is where curiosity turns into impact
+- I enjoy building things that are both useful and elegant
 
 ---
 
-**Thanks for stopping by! Feel free to explore my repos and don't hesitate to reach out for collaboration.** 🚀
+<div align="center">
+
+### “The future belongs to builders who learn fast and automate wisely.”
+
+```text
+   _______________
+< Let’s build something amazing together! >
+   ---------------
+          \   ^__^
+           \  (oo)\_______
+              (__)\       )\/\
+                  ||----w |
+                  ||     ||
+```
+
+</div>
+
+---
+
+Thanks for visiting my profile — I’m always excited to connect with people building something meaningful. 🚀
