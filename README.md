@@ -18,7 +18,7 @@
 
 ## 🎯 About Me
 
-I’m a passionate developer and AI enthusiast who loves building systems that turn complexity into clarity. I enjoy creating intelligent, scalable solutions that solve real-world problems and make everyday work smoother.
+I’m a passionate developer and AI enthusiast who loves building systems that turn complexity into clarity. I enjoy creating intelligent, scalable solutions that solve real-world problems and make technology more useful.
 
 - 🔭 Currently exploring: AI systems, automation, and scalable product thinking
 - 🌱 Learning: Machine learning, architecture, cloud-native engineering, and data-driven decision making
@@ -112,16 +112,11 @@ I believe great technology is not just about writing code—it’s about designi
 
 ### “The future belongs to builders who learn fast and automate wisely.”
 
-```text
-   _______________
-< Let’s build something amazing together! >
-   ---------------
-          \   ^__^
-           \  (oo)\_______
-              (__)\       )\/\
-                  ||----w |
-                  ||     ||
-```
+## 🐧 The penguin has arrived!
+
+![Animated Penguin](https://lottie.host/663d6a1a-4524-40bf-8f2c-09c6b63f8ac5/NnpISgSo9r.gif)
+
+*An animated penguin, delivered properly this time.*
 
 </div>
 
